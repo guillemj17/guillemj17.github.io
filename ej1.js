@@ -52,7 +52,7 @@ function pintaCosas2(arrDibujos){
 
     capa.appendChild(textNode);
 
-    var seccion = document.getElementById("seccion")
+    var seccion = document.getElementById("resultado")
 
     seccion.appendChild(capa);
 
